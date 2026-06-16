@@ -1,34 +1,14 @@
 <h1 align="center">
-  Hi 👋, I'm Raras Putri
+  Raras Putri Pebriana
 </h1>
 
-<h3 align="center">
-  🎓 Information and Computer Engineering Education Student | 💻 Web Developer
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Information+and+Computer+Engineering+Student;Web+Developer;Backend+Developer;Laravel+Enthusiast;Software+Engineering+Student">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Information+and+Computer+Engineering+Student;Web+Developer;Backend+Developer;Laravel+Developer;Software+Engineering+Student">
 </p>
 
 ---
 
-## 👩‍💻 About Me
-
-🎓 First-year **Information and Computer Engineering Education (PTIK)** student at **Universitas Sebelas Maret**
-
-💻 I have a background in **Software Engineering** and enjoy building web applications, managing databases, and developing backend systems.
-
-🌱 Currently learning:
-- Web Development
-- Backend Development
-- Software Engineering
-- Database Management
-
-🚀 Interested in creating useful and scalable digital solutions.
-
----
-
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,bootstrap,git,github,vscode">
@@ -36,10 +16,10 @@
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rarasputri&show_icons=true&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=rarasputri&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true">
 </p>
 
 <p align="center">
@@ -48,10 +28,18 @@
 
 ---
 
-## 🌐 Connect With Me
+## Contribution Activity
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/rarasputri/rarasputri/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## Connect
 
 <p align="center">
 <a href="https://github.com/rarasputri">
-<img src="https://img.shields.io/badge/GitHub-rarasputri-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-rarasputri-181717?style=for-the-badge&logo=github">
 </a>
 </p>
