@@ -21,3 +21,9 @@
       src="https://raw.githubusercontent.com/rarasputri/rarasputri/gh-pages/github-contribution-grid-snake.svg">
   </picture>
 </p>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php,js,html,css,mysql,bootstrap,tailwind,git,github" />
+  </a>
+</p>
